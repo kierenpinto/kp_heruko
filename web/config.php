@@ -1,5 +1,5 @@
 <?php
- $callback_url = 'http://'.$_SERVER['SERVER_ADDR'].'/Twitter/twitter_callback.php';
+ $callback_url = 'http://'.$_SERVER['SERVER_ADDR'].'/web/twitter_callback.php';
 return [
     //
     'consumer_key'      => 'P3FERDWse0tucaJUPMy0efkOl',

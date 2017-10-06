@@ -12,5 +12,7 @@ $txt = 'Hello Everyone!'
     <body>
         This is a text test: </br>
         <?php echo $txt ?>
+<br/>
+The directory is: <?php echo __DIR__; ?>
     </body>
 </html>

@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL);
 ini_set('display_errors', True);
-require_once 'vendor/autoload.php';
+require_once '../vendor/autoload.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
  
 session_start();

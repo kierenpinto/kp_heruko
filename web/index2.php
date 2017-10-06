@@ -1,7 +1,7 @@
 <?php 
 error_reporting(E_ALL);
 ini_set('display_errors', True);
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
 
 $config = require 'config.php';
